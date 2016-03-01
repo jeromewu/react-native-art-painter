@@ -1,0 +1,19 @@
+{
+  "name": "react-native-art-painter",
+  "version": "0.0.1",
+  "description": "ART Painter for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromewu/react-native-art-painter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromewu/react-native-art-painter/issues"
+  },
+  "homepage": "https://github.com/jeromewu/react-native-art-painter#readme"
+}
